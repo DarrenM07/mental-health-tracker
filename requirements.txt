@@ -7,3 +7,4 @@ urllib3
 coverage
 selenium
 whitenoise
+django-cors-headers
